@@ -1,2 +1,2 @@
-# NBA-Shot-Prediction-Thesis-Public-
+# NBA Shot Prediction Thesis
 Predicting NBA shots using recurrent neural networks
